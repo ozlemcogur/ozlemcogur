@@ -1,9 +1,6 @@
-                                                  Hi there, I’m Ozlem 👋
+Hi there, I’m Ozlem 👋
                                                   
-  Javascript is my first language and I’m currently following a Front-End roadmap.
-
-
-
+Javascript is my first language and I’m currently following a Front-End roadmap.
 
 
 <p align="left">
