@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlemcogur&label=Profile%20views&color=0e75b6&style=flat" alt="ozlemcogur" /> </p>
 
  🎈 Industrial psychologist | 👩‍💻 Front-end developer <br>
- 🌱 Currently working on various web projects and utilizing my skills in HTML, CSS, and JS <br>
+ 🌱 Currently working on various projects and utilizing my skills in HTML, CSS, and JS <br>
  ⏳  Learning React JS and React Native. <br>
  ⚡ Fun fact: I love yoga. <br> 
  💡  Ask me anything.<br>
