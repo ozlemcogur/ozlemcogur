@@ -5,7 +5,7 @@
 
  🎈 Industrial psychologist | 👩‍💻 Front-end developer <br>
  🌱 Currently working on various projects and utilizing my skills in HTML, CSS, and JS <br>
- ⏳  Learning React JS and React Native. <br>
+ ⏳  Learning React Native. <br>
  ⚡ Fun fact: I love yoga. <br> 
  💡  Ask me anything.<br>
  📫 How to reach me **fatmaozlemcogur@gmail.com**
